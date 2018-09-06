@@ -2,16 +2,16 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
-  <artifactId>New Project</artifactId>
+  <artifactId>New_Project</artifactId>
   <packaging>jar</packaging>
-  <version>-1.0SNAPSHOT</version>
+  <version>1.0SNAPSHOT</version>
   <name>New Project</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.12</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
